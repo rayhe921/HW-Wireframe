@@ -19,7 +19,7 @@ Header, Nav, Section, Aside, Footer {
 Article {
     color: #ebebeb;
 background: #777;
-margin: 1%;
+margin: 2%;
 padding: 2%;
 }
 
@@ -50,8 +50,6 @@ section {
     display: block;
     clear: both;
   }
-
-
 
 aside {
     float: left;
